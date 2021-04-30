@@ -1,0 +1,18 @@
+class Slingshot{
+    //create constraint
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
